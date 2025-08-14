@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="PEEPEM.MED - Transformando tu belleza desde adentro hacia afuera."> 
+    <title>PEEPEM.MED</title>
+    </head>
+<body>
+    <h1>PEEPEM.MED</h1>
+    <h2>MI HISTORIA</h1>
+    <p>¿Quiénes somos?
+
+El nombre Peepem proviene de la lengua maya y significa "mariposa". Al igual que la mariposa simboliza la transformación, la libertad y el renacimiento, nuestra misión es ayudarte a lograr un cambio profundo en tu belleza y bienestar.
+
+En Peepem.med, combinamos la tecnología de punta con la pasión por el profesionalismo para ofrecerte una experiencia de transformación única. Con protocolos personalizados y servicios de alta calidad, buscamos que el cambio comience desde tu interior y se refleje en una belleza auténtica en tu exterior.
+
+#TransformandoTuBelleza</p>
+    
+    <img src="imagen.jpeg" alt="imagen" width="300" height="200">
+    <h2>Brochure</h2>
+    <p>Download our brochure <a href="brochure.pdf.pdf" download>here</a>.</p>
+
+    <h2>Contacto 3212802788</h2>
+    </body>
+</html>
